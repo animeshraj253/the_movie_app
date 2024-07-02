@@ -23,7 +23,6 @@
 - **Maintainable Code**: The use of MVVM architecture makes the app easier to manage and scale.
 - **Efficient Networking**: Retrofit ensures efficient and easy management of API calls.
 
-This brief description covers the primary features and the technical architecture of **The Movie App**, making it clear and concise for anyone interested in understanding how the app works.
 ![The Movie App Logo](https://github.com/animeshraj253/the_movie_app/assets/134291311/e7c217f1-8c05-49a2-8416-1d816ad9f1a8)
 
 ![The Movie App Light Mode](https://github.com/animeshraj253/the_movie_app/assets/134291311/43067b15-b3db-4058-9b0f-2d49f32baf97)
